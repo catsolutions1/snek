@@ -1,3 +1,4 @@
 memes/
 *.env
-cat.png
+*.png
+cog.py
